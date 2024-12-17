@@ -1,0 +1,16 @@
+D:\oop\calculator\WinFormscalculator\bin\Debug\net8.0-windows\WinFormscalculator.exe
+D:\oop\calculator\WinFormscalculator\bin\Debug\net8.0-windows\WinFormscalculator.deps.json
+D:\oop\calculator\WinFormscalculator\bin\Debug\net8.0-windows\WinFormscalculator.runtimeconfig.json
+D:\oop\calculator\WinFormscalculator\bin\Debug\net8.0-windows\WinFormscalculator.dll
+D:\oop\calculator\WinFormscalculator\bin\Debug\net8.0-windows\WinFormscalculator.pdb
+D:\oop\calculator\WinFormscalculator\obj\Debug\net8.0-windows\WinFormscalculator.Form1.resources
+D:\oop\calculator\WinFormscalculator\obj\Debug\net8.0-windows\WinFormscalculator.csproj.GenerateResource.cache
+D:\oop\calculator\WinFormscalculator\obj\Debug\net8.0-windows\WinFormscalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\calculator\WinFormscalculator\obj\Debug\net8.0-windows\WinFormscalculator.AssemblyInfoInputs.cache
+D:\oop\calculator\WinFormscalculator\obj\Debug\net8.0-windows\WinFormscalculator.AssemblyInfo.cs
+D:\oop\calculator\WinFormscalculator\obj\Debug\net8.0-windows\WinFormscalculator.csproj.CoreCompileInputs.cache
+D:\oop\calculator\WinFormscalculator\obj\Debug\net8.0-windows\WinFormscalculator.dll
+D:\oop\calculator\WinFormscalculator\obj\Debug\net8.0-windows\refint\WinFormscalculator.dll
+D:\oop\calculator\WinFormscalculator\obj\Debug\net8.0-windows\WinFormscalculator.pdb
+D:\oop\calculator\WinFormscalculator\obj\Debug\net8.0-windows\WinFormscalculator.genruntimeconfig.cache
+D:\oop\calculator\WinFormscalculator\obj\Debug\net8.0-windows\ref\WinFormscalculator.dll
