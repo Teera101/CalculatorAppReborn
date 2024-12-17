@@ -107,3 +107,12 @@ result.Text = iResult.ToString();
         }
 ```
 ## ปุ่มลบข้อมูล
+```
+ private void button5_Click(object sender, EventArgs e)
+        {
+            //clear textbox result
+            result.Text = "";
+            num1.Text = "";
+            num2.Text = "";
+        }
+```
